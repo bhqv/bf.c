@@ -11,7 +11,7 @@
                      |___/                                                 
 */
 
-
+// TODO: make the output efficient 
 
 void generate_brainfuck(int target, int *current, FILE *output) {
     if (target > *current) {
